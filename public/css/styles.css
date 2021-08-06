@@ -1,0 +1,26 @@
+/* 
+
+Hey, this is Ayanda!
+
+3 ways that can be combined to pass style values to 
+JS objects known as HTML elements
+
+This is file will be connected to the appropriate one through
+the link html element that will pass the values on.
+
+tags multiple selection possinle
+*/
+
+h1{
+    background-color: greenyellow;
+}
+
+/* classes, multiple selection possible */
+.background{
+    background-color: rgb(47, 120, 255);
+}
+
+/* ID unique one selection */
+#link-background{
+    background-color: rgb(255, 47, 203);
+}
